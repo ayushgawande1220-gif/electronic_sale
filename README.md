@@ -35,6 +35,6 @@ dashboard building to uncover key business insights.
 [E-Commerce Electronics Sales Dataset](https://www.kaggle.com/datasets/deepanshuverma0154/sales-dataset-of-ecommerce-electronic-products)
 
 ## Author
-**Ayush H Gawande 
+**Ayush H Gawande**
 - GitHub: https://github.com/ayushgawande1220-gif
 - LinkedIn: https://www.linkedin.com/in/ayush-gawande20
